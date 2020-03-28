@@ -191,7 +191,7 @@ h Math.sum
 
 ## Converting Types
 
-- `to_char_list("hełło")` => convert a string to char list
+- `to_charlist("hełło")` => convert a string to char list
 - `to_string('hełło')` => convert a char list to string
 - `Map.to_list(%{:a => 1, 2 => :b})` => convert a map to list of tuples or keyword list
 
